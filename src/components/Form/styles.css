@@ -1,0 +1,51 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 23px;
+  padding: 0 10px;
+  max-width: 420px;
+}
+
+.form-title {
+  font-weight: 700;
+  font-size: 31px;
+}
+
+.form input[type=text],
+.form input[type=number],
+.form select,
+.form textarea {
+  border: 1px solid #000000;
+  border-radius: 10px;
+  padding: 8px 10px;
+  width: 100%;
+  font-size: 1rem;
+}
+
+.form input[type=text],
+.form input[type=number],
+select {
+  height: 4rem;
+}
+
+.input-wrapper {
+  display: flex;
+  gap: 20px;
+}
+
+.description {
+  padding: 0 14px;
+  height: 283.15px;
+}
+
+.button-submit {
+  background: rgba(24, 87, 138, 0.76);
+  width: 180px;
+  border-radius: 10px;
+  padding: 8px 10px;
+  color: #ffffff;
+  align-self: flex-end;
+  font-size: 1.75rem;
+  cursor: pointer;
+}

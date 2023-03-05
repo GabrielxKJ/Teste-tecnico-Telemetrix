@@ -1,0 +1,32 @@
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+html {
+  /*10px*/
+  scroll-behavior: smooth;
+}
+
+body,
+html {
+  background-color:#E5E5E5 ;
+  overflow-x: hidden;
+}
+
+body,
+input,
+textarea,
+button {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+img {
+  width: 100%;
+}
