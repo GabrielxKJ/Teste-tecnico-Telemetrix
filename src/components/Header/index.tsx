@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./styles.css";
 
 export function Header() {
@@ -15,13 +16,13 @@ export function Header() {
           <nav>
             <ul>
               <li className="nav-link">
-                <a href="/">
-                  Produtos
+                <a>
+                  <Link to="/">Produtos</Link>
                 </a>
               </li>
               <li className="nav-link-cta">
-                <a href="/register">
-                  Registrar produtos
+                <a>
+                  <Link to="/register">Registrar produtos</Link>
                 </a>
               </li>
             </ul>

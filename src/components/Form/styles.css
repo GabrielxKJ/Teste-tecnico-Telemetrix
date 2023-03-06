@@ -39,7 +39,7 @@ select {
   height: 283.15px;
 }
 
-.button-submit {
+.btn-submit {
   background: rgba(24, 87, 138, 0.76);
   width: 180px;
   border-radius: 10px;
@@ -47,5 +47,17 @@ select {
   color: #ffffff;
   align-self: flex-end;
   font-size: 1.75rem;
+}
+
+.btn-active {
+  opacity: 1;
   cursor: pointer;
+}
+
+.btn-active:hover {
+  filter: brightness(0.7);
+}
+
+.btn-disabled {
+  opacity: 0.4;
 }

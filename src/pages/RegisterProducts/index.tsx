@@ -8,7 +8,7 @@ export function RegisterProducts() {
   return (
     <section className="register-products">
       <div className="wrapper">
-        <Form></Form>
+        <Form onSucess={() => null} />
         <img
           className="register-product-img"
           src="../../../public/images/register-product.jpg"

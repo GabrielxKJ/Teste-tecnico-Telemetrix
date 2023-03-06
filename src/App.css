@@ -30,3 +30,11 @@ button {
 img {
   width: 100%;
 }
+
+li, button, i {
+  transition: 1s ease;
+}
+
+li:hover {
+  filter: brightness(0.7);
+}
