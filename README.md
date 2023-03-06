@@ -1,6 +1,6 @@
 # Teste-tecnico-Telemetrix
 Teste teste técnico realizado para vaga de estagiário na Telemetrix Intelligence.
-Desenvolvido em React e Typescript com a finalidade criar, deletar, atualizar e consultar produtos, fazendo a manipulação 
+Desenvolvido em React e Typescript com a finalidade de criar, deletar, atualizar e consultar produtos, fazendo a manipulação 
 e consumindo informações da API disponiblizada. 
 
 ## Instalação
