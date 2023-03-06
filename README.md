@@ -5,6 +5,9 @@ e consumindo informações da API disponibilizada.
 
 ## Instalação
 
+OBS: link de instrução de instalação do pacote de depêndencias yarn, caso não o tenha instalado
+em máquina https://www.hostinger.com.br/tutoriais/yarn-install
+
 1. Clone este repositório
 2. Navegue até a pasta do projeto
 3. Execute o comando `yarn install` para instalar as dependências
