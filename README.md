@@ -14,7 +14,7 @@ em máquina https://www.hostinger.com.br/tutoriais/yarn-install
 
 ## Utilização
 
-Execute o comando `yarn dev` para iniciar o servidor de desenvolvimento. O aplicativo será executado em ` http://localhost:5174/`.
+Execute o comando `yarn dev` para iniciar o servidor de desenvolvimento. O aplicativo será executado em ` http://localhost:5173/`.
 
 ## Dependências
 
